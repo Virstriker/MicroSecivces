@@ -1,0 +1,12 @@
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\bin\Debug\net6.0\CommunicationChannel.deps.json
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\bin\Debug\net6.0\CommunicationChannel.dll
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\bin\Debug\net6.0\CommunicationChannel.pdb
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\obj\Debug\net6.0\CommunicationChannel.csproj.AssemblyReference.cache
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\obj\Debug\net6.0\CommunicationChannel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\obj\Debug\net6.0\CommunicationChannel.AssemblyInfoInputs.cache
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\obj\Debug\net6.0\CommunicationChannel.AssemblyInfo.cs
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\obj\Debug\net6.0\CommunicationChannel.csproj.CoreCompileInputs.cache
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\obj\Debug\net6.0\CommunicationChannel.dll
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\obj\Debug\net6.0\refint\CommunicationChannel.dll
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\obj\Debug\net6.0\CommunicationChannel.pdb
+C:\Users\Vinayak.Gohel\source\repos\GamerManagment\Communication\obj\Debug\net6.0\ref\CommunicationChannel.dll

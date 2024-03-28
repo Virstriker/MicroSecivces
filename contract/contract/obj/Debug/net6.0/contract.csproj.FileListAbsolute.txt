@@ -1,0 +1,14 @@
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\bin\Debug\net6.0\contract.deps.json
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\bin\Debug\net6.0\contract.runtimeconfig.json
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\bin\Debug\net6.0\contract.dll
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\bin\Debug\net6.0\contract.pdb
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\obj\Debug\net6.0\contract.csproj.AssemblyReference.cache
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\obj\Debug\net6.0\contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\obj\Debug\net6.0\contract.AssemblyInfoInputs.cache
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\obj\Debug\net6.0\contract.AssemblyInfo.cs
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\obj\Debug\net6.0\contract.csproj.CoreCompileInputs.cache
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\obj\Debug\net6.0\contract.dll
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\obj\Debug\net6.0\refint\contract.dll
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\obj\Debug\net6.0\contract.pdb
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\obj\Debug\net6.0\contract.genruntimeconfig.cache
+C:\Users\Vinayak.Gohel\source\repos\contract\contract\obj\Debug\net6.0\ref\contract.dll

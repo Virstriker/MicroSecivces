@@ -1,0 +1,49 @@
+﻿10:54:58,356 [C:\Users\Vinayak.Gohel\source\repos\ESports\ESports\Controllers\Testing.cs] INFO - Added info Sucessfully
+10:54:58,465 [C:\Users\Vinayak.Gohel\source\repos\ESports\ESports\Controllers\Testing.cs] WARN - Added warn Sucessfully
+10:55:03,758 [C:\Users\Vinayak.Gohel\source\repos\ESports\ESports\Controllers\Testing.cs] ERROR - Added errrr Sucessfully
+10:55:03,762 [C:\Users\Vinayak.Gohel\source\repos\ESports\ESports\Controllers\Testing.cs] FATAL - Added fattal Sucessfully
+10:55:43,705 [C:\Users\Vinayak.Gohel\source\repos\ESports\ESports\Controllers\Testing.cs] INFO - Added info Sucessfully
+10:55:44,637 [C:\Users\Vinayak.Gohel\source\repos\ESports\ESports\Controllers\Testing.cs] WARN - Added warn Sucessfully
+10:55:44,641 [C:\Users\Vinayak.Gohel\source\repos\ESports\ESports\Controllers\Testing.cs] ERROR - Added errrr Sucessfully
+10:55:44,641 [C:\Users\Vinayak.Gohel\source\repos\ESports\ESports\Controllers\Testing.cs] FATAL - Added fattal Sucessfully
+11:04:33,652 [ESports.Controllers.Testing] INFO - Added info Sucessfully
+11:04:33,788 [ESports.Controllers.Testing] WARN - Added warn Sucessfully
+11:04:33,978 [ESports.Controllers.Testing] ERROR - Added errrr Sucessfully
+11:04:34,483 [ESports.Controllers.Testing] FATAL - Added fattal Sucessfully
+11:12:11,502 [ESports.Controllers.Testing] INFO - Added info Sucessfully
+11:12:12,048 [ESports.Controllers.Testing] WARN - Added warn Sucessfully
+11:12:12,240 [ESports.Controllers.Testing] ERROR - Added errrr Sucessfully
+11:12:12,395 [ESports.Controllers.Testing] FATAL - Added fattal Sucessfully
+11:13:41,447 [ESports.Controllers.Testing] INFO - Added info Sucessfully
+11:13:42,559 [ESports.Controllers.Testing] WARN - Added warn Sucessfully
+11:13:44,139 [ESports.Controllers.Testing] ERROR - Added errrr Sucessfully
+11:13:46,233 [ESports.Controllers.Testing] FATAL - Added fattal Sucessfully
+08 Feb 2024 11:40:54.766 INFO  [Microsoft.Hosting.Lifetime] - Now listening on: https://localhost:7250
+08 Feb 2024 11:40:54.782 INFO  [Microsoft.Hosting.Lifetime] - Now listening on: http://localhost:5128
+08 Feb 2024 11:40:54.795 INFO  [Microsoft.Hosting.Lifetime] - Application started. Press Ctrl+C to shut down.
+08 Feb 2024 11:40:54.798 INFO  [Microsoft.Hosting.Lifetime] - Hosting environment: Development
+08 Feb 2024 11:40:54.801 INFO  [Microsoft.Hosting.Lifetime] - Content root path: C:\Users\Vinayak.Gohel\source\repos\ESports\ESports\
+08 Feb 2024 11:41:00.357 INFO  [ESports.Controllers.Testing] - Added info Sucessfully
+08 Feb 2024 11:41:00.385 WARN  [ESports.Controllers.Testing] - Added warn Sucessfully
+08 Feb 2024 11:41:00.388 ERROR [ESports.Controllers.Testing] - Added errrr Sucessfully
+08 Feb 2024 11:41:00.391 FATAL [ESports.Controllers.Testing] - Added fattal Sucessfully
+11:43:41,550 [ESports.Controllers.Testing] INFO - Added info Sucessfully
+11:43:41,610 [ESports.Controllers.Testing] WARN - Added warn Sucessfully
+11:43:41,613 [ESports.Controllers.Testing] ERROR - Added errrr Sucessfully
+11:43:41,615 [ESports.Controllers.Testing] FATAL - Added fattal Sucessfully
+11:44:25,492 [ESports.Controllers.Testing] INFO - Added info Sucessfully
+11:44:25,528 [ESports.Controllers.Testing] WARN - Added warn Sucessfully
+11:44:25,531 [ESports.Controllers.Testing] ERROR - Added errrr Sucessfully
+11:44:25,534 [ESports.Controllers.Testing] FATAL - Added fattal Sucessfully
+11:45:32,506 [ESports.Controllers.Testing] INFO - Added info Sucessfully
+11:45:32,543 [ESports.Controllers.Testing] WARN - Added warn Sucessfully
+11:45:32,546 [ESports.Controllers.Testing] ERROR - Added errrr Sucessfully
+11:45:32,548 [ESports.Controllers.Testing] FATAL - Added fattal Sucessfully
+2024-02-08 12:43:49.750 +05:30 [INF] Hello
+2024-02-08 12:44:13.884 +05:30 [INF] Hello
+2024-02-08 12:44:59.488 +05:30 [INF] Hello
+2024-02-08 12:45:09.236 +05:30 [INF] Hello
+2024-02-08 12:45:46.222 +05:30 [INF] Hello
+2024-02-08 12:46:02.666 +05:30 [INF] Hello
+2024-02-08 12:47:15.312 +05:30 [INF] Hello
+2024-02-08 12:49:05.866 +05:30 [INF] Hello
